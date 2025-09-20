@@ -1,7 +1,7 @@
 10 dene uzayli var bunlardan biri Plutonlu qalanları isə Marslıdır. Plutonlu olan isə Marslılar ile o qeder vaxt keçiribki özüde Marslı olduğunu düşünür. Bu plutonlu Marsa getirilende iki insan onu görüb. A adamı onun boynuzlarının sayını B adamı isə gözlərinin sayını görüb. Sonra aralarında bu dialoq keçir:
-A: Mən bilirəmki sən plutonlunun boynux sayını bilmirsən.
+A: Mən bilirəmki sən plutonlunun boynuz sayını bilmirsən.
 B: İndiyə kimi bilmirdim ama artıq bilirəm.
-A: Sən bilirsənsə məndə bilirəm
+A: Sən bilirsənsə, plutonun kim olduğnuu məndə bilirəm
 
 Uzaylilar:
 1: 1/2
